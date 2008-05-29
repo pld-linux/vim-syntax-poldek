@@ -1,13 +1,13 @@
 Summary:	Vim syntax: poldek
 Name:		vim-syntax-poldek
 Version:	1.1
-Release:	1
+Release:	2
 License:	Charityware
 Group:		Applications/Editors/Vim
 Source0:	poldek.vim
 Source1:	vim-ftdetect-poldek.vim
 # for _vimdatadir existence
-Requires:	vim >= 4:6.3.058-3
+Requires:	vim-rt >= 4:6.3.058-3
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
