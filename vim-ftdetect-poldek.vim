@@ -1,2 +1,2 @@
 " poldek configs / repos setup
-au BufNewFile,BufRead /etc/poldek/*.conf set filetype=poldek
+au BufNewFile,BufRead */poldek/*.conf set filetype=poldek
