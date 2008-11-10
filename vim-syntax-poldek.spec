@@ -1,7 +1,7 @@
 Summary:	Vim syntax: poldek
 Name:		vim-syntax-poldek
 Version:	1.1
-Release:	2
+Release:	3
 License:	Charityware
 Group:		Applications/Editors/Vim
 Source0:	poldek.vim
